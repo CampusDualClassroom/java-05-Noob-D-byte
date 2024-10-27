@@ -8,7 +8,7 @@ public class Exercise05 {
         checkPositiveNegative(-100);
     }
 
-    //TODO ↓
+
     // Si el valor es menor, tiene que devolver el siguiente mensaje: X es menor que Y
     // Si el valor es mayor o igual, tiene que devolver el siguiente mensaje: X es mayor o igual que Y
     public static void checkLessOrGreaterEqual(int n1, int n2) {
@@ -19,7 +19,7 @@ public class Exercise05 {
         }
     }
 
-    //TODO ↓
+
     // Si es múltiplo, tiene que devolver el siguiente mensaje: X es múltiplo de Y
     // Si no es múltiplo, tiene que devolver el siguiente mensaje: X no es múltiplo de Y
     public static void checkMultiply(int n1, int n2) {
