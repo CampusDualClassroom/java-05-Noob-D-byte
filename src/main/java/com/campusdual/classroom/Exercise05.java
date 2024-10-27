@@ -30,7 +30,7 @@ if (n1 % n2 == 0 ){
 }
     }
 
-    //TODO ↓
+
     // Si es negativo, tiene que devolver el siguiente mensaje: X es negativo.
     // Si es positivo o cero, tiene que devolver el siguiente mensaje: X es positivo.
     public static void checkPositiveNegative(int num) {
